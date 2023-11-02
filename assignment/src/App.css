@@ -1,6 +1,8 @@
 .App {
-  text-align: center;
+}
 
+p{
+  line-height: 24px;
 }
 
 .App-logo {
